@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4be4582-d1c1-4f2d-b1d7-86ecafe8fc79" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../CRUD_Select/src/main/java/com/sistemi/informativi/DAO/StudentDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CRUD_Select/src/main/java/com/sistemi/informativi/DAO/StudentDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CRUD_Select/src/main/java/com/sistemi/informativi/DTO/StudentDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CRUD_Select/src/main/java/com/sistemi/informativi/connection/ConnectionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CRUD_Select/src/main/java/com/sistemi/informativi/connection/DbParameters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CRUD_Select/src/main/java/com/sistemi/informativi/servlet/StudentRegistrationServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CRUD_Select/src/main/java/com/sistemi/informativi/sql/SqlScript.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CRUD_Select/src/main/webapp/studentRegistration.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_DAO_Facade_Pattern/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_DAO_Facade_Pattern/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_DAO_Facade_Pattern/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_DAO_Facade_Pattern/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_DAO_Facade_Pattern/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_DAO_Facade_Pattern/Factory_DAO_Facade_Pattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_DAO_Facade_Pattern/src/com/sistemi/informativi/DAO/MockBackEndCourseDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_DAO_Facade_Pattern/src/com/sistemi/informativi/DAO/MockBackEndCourseDAOimpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_DAO_Facade_Pattern/src/com/sistemi/informativi/DAO/MockFrontEndCourseDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_DAO_Facade_Pattern/src/com/sistemi/informativi/DAO/MockFrontEndDAOimpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_DAO_Facade_Pattern/src/com/sistemi/informativi/bean/BackEndCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_DAO_Facade_Pattern/src/com/sistemi/informativi/bean/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_DAO_Facade_Pattern/src/com/sistemi/informativi/bean/FrontEndCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_DAO_Facade_Pattern/src/com/sistemi/informativi/business/Choice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_DAO_Facade_Pattern/src/com/sistemi/informativi/business/ChoiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_DAO_Facade_Pattern/src/com/sistemi/informativi/enumeration/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_DAO_Facade_Pattern/src/com/sistemi/informativi/facade/FacadeDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_DAO_Facade_Pattern/src/com/sistemi/informativi/facade/FacadeDAOimpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_DAO_Facade_Pattern/src/com/sistemi/informativi/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC_CRUD/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC_CRUD/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC_CRUD/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC_CRUD/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC_CRUD/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC_CRUD/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC_CRUD/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC_CRUD/src/main/java/com/sistemi/informarivi/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC_CRUD_ONE_TO_MANY/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC_CRUD_ONE_TO_MANY/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC_CRUD_ONE_TO_MANY/src/main/java/com/sistemi/informarivi/DAO/CourseDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC_CRUD_ONE_TO_MANY/src/main/java/com/sistemi/informarivi/DAO/CourseDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC_CRUD_ONE_TO_MANY/src/main/java/com/sistemi/informarivi/DAO/ReviewDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC_CRUD_ONE_TO_MANY/src/main/java/com/sistemi/informarivi/DAO/ReviewDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC_CRUD_ONE_TO_MANY/src/main/java/com/sistemi/informarivi/DTO/CourseDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC_CRUD_ONE_TO_MANY/src/main/java/com/sistemi/informarivi/DTO/ReviewDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC_CRUD_ONE_TO_MANY/src/main/java/com/sistemi/informarivi/VO/CourseVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC_CRUD_ONE_TO_MANY/src/main/java/com/sistemi/informarivi/VO/ReviewVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC_CRUD_ONE_TO_MANY/src/main/java/com/sistemi/informarivi/connection/ConnectionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC_CRUD_ONE_TO_MANY/src/main/java/com/sistemi/informarivi/connection/DbParameters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC_CRUD_ONE_TO_MANY/src/main/java/com/sistemi/informarivi/facade/FacadeDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC_CRUD_ONE_TO_MANY/src/main/java/com/sistemi/informarivi/facade/FacadeDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC_CRUD_ONE_TO_MANY/src/main/java/com/sistemi/informarivi/sql/SqlScript.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC_CRUD_ONE_TO_MANY/src/test/java/CrudTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC_CRUD_REENGINEERING/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC_CRUD_REENGINEERING/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC_CRUD_REENGINEERING/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC_CRUD_REENGINEERING/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC_CRUD_REENGINEERING/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC_CRUD_REENGINEERING/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC_CRUD_REENGINEERING/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC_CRUD_REENGINEERING/src/main/java/com/sistemi/informativi/DAO/StudentDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC_CRUD_REENGINEERING/src/main/java/com/sistemi/informativi/DAO/StudentDAOimpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC_CRUD_REENGINEERING/src/main/java/com/sistemi/informativi/DTO/bean/StudentDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC_CRUD_REENGINEERING/src/main/java/com/sistemi/informativi/connection/ConnectionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC_CRUD_REENGINEERING/src/main/java/com/sistemi/informativi/connection/DbParameters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC_CRUD_REENGINEERING/src/main/java/com/sistemi/informativi/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC_CRUD_REENGINEERING/src/main/java/com/sistemi/informativi/sql/SqlScript.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mock_DAO_Pattern/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mock_DAO_Pattern/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mock_DAO_Pattern/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mock_DAO_Pattern/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mock_DAO_Pattern/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mock_Factory/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mock_Factory/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mock_Factory/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mock_Factory/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mock_Factory/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mock_Factory/src/com/sistemi/informativi/DAO/MockBAckEndCourseDAOimpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mock_Factory/src/com/sistemi/informativi/DAO/MockBackEndCourseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mock_Factory/src/com/sistemi/informativi/DAO/MockFrontEndCourseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SB_CRUD_JPA/src/main/java/com/sistemi/informativi/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SB_CRUD_JPA/src/main/java/com/sistemi/informativi/repository/StudentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SB_CRUD_JPA/src/main/java/com/sistemi/informativi/repository/StudentRepositoryimpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SB_CRUD_JPA/src/main/java/com/sistemi/informativi/service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SB_CRUD_JPA/src/main/java/com/sistemi/informativi/service/StudentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SB_JPA_CRUD_ONE_TO_MANY/src/main/java/com/sistemi/informativi/entity/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SB_JPA_CRUD_ONE_TO_MANY/src/main/java/com/sistemi/informativi/entity/Review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SB_JPA_CRUD_ONE_TO_MANY/src/main/java/com/sistemi/informativi/facade/FacadeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SB_JPA_CRUD_ONE_TO_MANY/src/main/java/com/sistemi/informativi/facade/FacadeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SB_JPA_CRUD_ONE_TO_MANY/src/main/java/com/sistemi/informativi/repository/CourseRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SB_JPA_CRUD_ONE_TO_MANY/src/main/java/com/sistemi/informativi/repository/CourseRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SB_JPA_CRUD_ONE_TO_MANY/src/main/java/com/sistemi/informativi/repository/ReviewRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SB_JPA_CRUD_ONE_TO_MANY/src/main/java/com/sistemi/informativi/repository/ReviewRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SB_JPA_CRUD_ONE_TO_MANY/src/main/java/com/sistemi/informativi/service/CourseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SB_JPA_CRUD_ONE_TO_MANY/src/main/java/com/sistemi/informativi/service/CourseServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SB_JPA_CRUD_ONE_TO_MANY/src/main/java/com/sistemi/informativi/service/ReviewService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SB_JPA_CRUD_ONE_TO_MANY/src/main/java/com/sistemi/informativi/service/ReviewServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Servelet_CRUD/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Servelet_CRUD/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Servelet_CRUD/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Servelet_CRUD/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2j33aSww12mxDDJyeoeIy51T9lL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/marty/Desktop/JavaIbm/SB_JPA_CRUD_MANY_TO_MANY-20240710T094354Z-001",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4be4582-d1c1-4f2d-b1d7-86ecafe8fc79" name="Changes" comment="" />
+      <created>1720601996238</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720601996238</updated>
+      <workItem from="1720601997328" duration="41000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
